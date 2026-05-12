@@ -1,0 +1,6 @@
+".pyc
+__pycache__/
+*.db
+.venv/
+config.bat
+node_modules
